@@ -1,2 +1,2 @@
 Something that is motivating to me to change my career is the desire to live the life I desire. For me, I do not like being tied to any place for too long. I enjoy moving around quite often and being able to afford to do so.
-Another motivation is seeing how code is becoming a universal language. You don't need to know English fluently to be in software. This job field could help give many people opportunities from all backgrounds. I could help them reach that career.
+Another motivation is seeing how code is becoming a universal language. You don't need to know English fluently to be in software. This job field could help give many people opportunities from all backgrounds.

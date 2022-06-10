@@ -4,4 +4,4 @@ Journaling
 Reading
 Spelunking
 Weight Lifting
-Running
+Run
